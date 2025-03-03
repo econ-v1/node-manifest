@@ -1,13 +1,7 @@
 {
-  "version": "1.0.47",
-  "versionCode": 2,
+  "version": "1.0.48",
+  "versionCode": 3,
   "updatedServices": [
-    {
-      "name": "lnd-node-api"
-    },
-    {
-      "name": "chat-ui"
-    },
     {
       "name": "agent"
     },
@@ -15,16 +9,7 @@
       "name": "frontend"
     },
     {
-      "name": "lnd"
-    },
-    {
-      "name": "rtl"
-    },
-    {
-      "name": "linux-cockpit"
-    },
-    {
-      "name": "nginx"
+      "name": "chat"
     }
   ]
 }
