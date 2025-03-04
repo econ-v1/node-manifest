@@ -1,6 +1,6 @@
 {
-  "version": "1.0.53",
-  "versionCode": 8,
+  "version": "1.0.54",
+  "versionCode": 9,
   "updatedServices": [
     {
       "name": "agent"
