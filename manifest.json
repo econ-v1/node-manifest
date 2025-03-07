@@ -1,15 +1,25 @@
 {
-  "version": "1.0.62",
-  "versionCode": 16,
+  "version": "1.1.4",
+  "versionCode": 17,
   "updatedServices": [
+    {
+      "name": "cockpit"
+    },
+    {
+      "name": "lnd"
+    },
+    {
+      "name": "mongodb"
+    },
+    {
+      "name": "rtl"
+    },
     {
       "name": "agent"
     },
     {
       "name": "frontend"
-    },
-    {
-      "name": "chat"
     }
-  ]
+  ],
+  "deploymentInstructions": "Standard service restart: 'pm2 restart all'"
 }
