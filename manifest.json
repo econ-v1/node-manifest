@@ -1,6 +1,6 @@
 {
-  "version": "1.1.12",
-  "versionCode": 24,
+  "version": "1.1.13",
+  "versionCode": 25,
   "updatedServices": [
     {
       "name": "cockpit"
@@ -19,6 +19,9 @@
     },
     {
       "name": "frontend"
+    },
+    {
+      "name": "chat"
     }
   ],
   "deploymentInstructions": "Standard service restart: 'pm2 restart all'",
